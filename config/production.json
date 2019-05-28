@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://kt390256:password11@ds261296.mlab.com:61296/devconnector",
+    "jwtSecret": "myjwttoken",
+    "githubClientId": "5ab5190b2ea0d6d0dd5e",
+    "githubSecret": "9dde3f752a6ab3ab88b9fc3b4aa8c13f99a052cc"
+}
